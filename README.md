@@ -30,4 +30,5 @@ Once you have replaced Your-Own-API-Key, you should be good to go!
 * App conforms to common standards found in the Android Nanodegree General Project Guidelines.
 
 
+
 <hr>
