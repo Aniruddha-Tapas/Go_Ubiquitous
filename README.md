@@ -1,4 +1,6 @@
-This project includes a wearable watch face for the <a href="https://github.com/udacity/Advanced_Android_Development/tree/7.05_Pretty_Wallpaper_Time">Udacity Sunshine App</a> to run on an Android Wear device.
+# Go_Ubiquitous
+
+This project is the 6th project in the Android Developer Nanodegree which involves building a wearable watchface for the <a href="https://github.com/udacity/Advanced_Android_Development/tree/7.05_Pretty_Wallpaper_Time">Udacity Sunshine App</a> to run on an Android Wear device.
 
 To build and run the Sunshine app on your mobile device or the wearable, you'll need an API key from http://openweathermap.org/.
 
@@ -16,6 +18,8 @@ buildTypes.each {
 </code>
 
 Once you have replaced Your-Own-API-Key, you should be good to go!
+
+<hr>
 
 ## Rubric:
 
